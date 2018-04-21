@@ -3,4 +3,7 @@
     <string name="main">Principale</string>
     <string name="second">Secondaria</string>
     <string name="lancio">Vai!</string>
+    <string name="third">Terza</string>
+    <string name="richiestaNome">Scrivi il tuo nome</string>
+    <string name="hintNome">Nome</string>
 </resources>
